@@ -8,7 +8,7 @@ var client = new AmazonSQSClient();
 
 var studentDetails = new StudentCreation
 {
-    Id = new Guid(),
+    Id = Guid.NewGuid(),
     FullName = "John Cena",
     DOB = new DateTime(2000, 02, 13),
     Email = "johncena@gmail.com",

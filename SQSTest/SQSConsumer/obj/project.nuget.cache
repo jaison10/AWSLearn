@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ObMrMBTAUpYBkPe46gpo1CUxFh2Nz2ADTpGxqAAZJd51cn2ONsJI/ZmYel8cwZqcx/0euwsGHA2/cch/boHwg==",
+  "success": true,
+  "projectFilePath": "F:\\DotNet\\AWS Learning\\SQS\\SQSTest\\SQSConsumer\\SQSConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.core\\3.7.300.5\\awssdk.core.3.7.300.5.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.sqs\\3.7.300.5\\awssdk.sqs.3.7.300.5.nupkg.sha512"
+  ],
+  "logs": []
+}
