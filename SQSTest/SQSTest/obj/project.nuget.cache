@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xBbGRDCBx5+zoLcyGKlaPquLuh3nvOArNcjFtWGSjy+G4QcClAjF8Ju5QRMtCInDrc7V66A523FiU8BKx2relA==",
+  "dgSpecHash": "Dbnn6haIyaQ+pkWdSJPPwZh0atPj3Sogdg0lfSLvUXTmL5ksOWlIWwfUNI/X00CXoeN1gfkZiO2d2N/FMxd34w==",
   "success": true,
   "projectFilePath": "F:\\DotNet\\AWS Learning\\SQS\\SQSTest\\SQSTest\\SQSResponse.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.core\\3.7.300.5\\awssdk.core.3.7.300.5.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.sqs\\3.7.300.5\\awssdk.sqs.3.7.300.5.nupkg.sha512"
+  ],
   "logs": []
 }
