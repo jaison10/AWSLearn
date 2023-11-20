@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBBML/IW4dVoZ4FX7zGJZt3tKyBjkczqGvYI39fNVTjMgKXDyHvjsjgB4IFTSBUg1pOI84WRZFFHpJkvakpMVg==",
+  "success": true,
+  "projectFilePath": "F:\\DotNet\\AWS Learning\\SNS\\SNS\\SNS\\SNS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.core\\3.7.300.6\\awssdk.core.3.7.300.6.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.300.6\\awssdk.simplenotificationservice.3.7.300.6.nupkg.sha512"
+  ],
+  "logs": []
+}

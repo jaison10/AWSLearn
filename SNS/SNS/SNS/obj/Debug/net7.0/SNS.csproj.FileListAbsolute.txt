@@ -1,0 +1,15 @@
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\SNS.exe
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\SNS.deps.json
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\SNS.runtimeconfig.json
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\SNS.dll
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\SNS.pdb
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.csproj.AssemblyReference.cache
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.AssemblyInfoInputs.cache
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.AssemblyInfo.cs
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.csproj.CoreCompileInputs.cache
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.dll
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\refint\SNS.dll
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.pdb
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.genruntimeconfig.cache
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\ref\SNS.dll
