@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcFosyRqqxL2ywDuWhqPEDlKzZQ7XbcCesocI8hVcKPuvplxoAnmiCTigspLzsIek6dfdme/MXalqTCZvXgBTw==",
+  "success": true,
+  "projectFilePath": "F:\\DotNet\\AWS Learning\\SNS\\SNS\\SNSConsumer\\SNSConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.core\\3.7.300.6\\awssdk.core.3.7.300.6.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\awssdk.sqs\\3.7.300.6\\awssdk.sqs.3.7.300.6.nupkg.sha512"
+  ],
+  "logs": []
+}
