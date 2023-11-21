@@ -13,3 +13,6 @@ F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\refint\SNS.dll
 F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.pdb
 F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.genruntimeconfig.cache
 F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\ref\SNS.dll
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\AWSSDK.Core.dll
+F:\DotNet\AWS Learning\SNS\SNS\SNS\bin\Debug\net7.0\AWSSDK.SimpleNotificationService.dll
+F:\DotNet\AWS Learning\SNS\SNS\SNS\obj\Debug\net7.0\SNS.csproj.CopyComplete

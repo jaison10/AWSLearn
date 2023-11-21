@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SNS
 {
-    internal class StudentModel
+    internal class StudentCreated
     {
         public required Guid Id { get; set; }
         public required string FullName { get; set; }
