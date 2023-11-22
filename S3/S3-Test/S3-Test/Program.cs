@@ -1,10 +1,9 @@
 ﻿
 using Amazon.S3;
 using Amazon.S3.Model;
-using System.Runtime.InteropServices;
 
 var s3Client = new AmazonS3Client();
-using var inputStream = new FileStream("/test.jpg", FileMode.Open, FileAccess.Read);
+using var inputStream = new FileStream("./test.jpg", FileMode.Open, FileAccess.Read);
 
 var objectRequest = new PutObjectRequest
 {

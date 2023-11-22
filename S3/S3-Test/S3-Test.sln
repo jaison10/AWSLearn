@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3-Test", "S3-Test\S3-Test.csproj", "{C7ED842B-52AC-40FA-A873-4E24A68EC4AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3-FileReader", "S3-FileReader\S3-FileReader.csproj", "{0D2E8B44-0534-432C-BD29-EF5FDB2E4BF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7ED842B-52AC-40FA-A873-4E24A68EC4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7ED842B-52AC-40FA-A873-4E24A68EC4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7ED842B-52AC-40FA-A873-4E24A68EC4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2E8B44-0534-432C-BD29-EF5FDB2E4BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2E8B44-0534-432C-BD29-EF5FDB2E4BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2E8B44-0534-432C-BD29-EF5FDB2E4BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2E8B44-0534-432C-BD29-EF5FDB2E4BF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
